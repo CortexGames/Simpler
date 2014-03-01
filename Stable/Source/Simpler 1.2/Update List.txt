@@ -1,0 +1,49 @@
+Version 1.2 Fixes
+
+Use touch event to gather touch information for all display objects on Global.STAGE,
+Or disable touching on everything but buttons!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Version 1.1 Fixes
+
+Simpler is located on C drive and will be versions from now on! DONE
+IRGlobal to not be Dynamic DONE
+IRGlobal * definitions will be provided with base classes (templates) DONE
+A dynamic alternative will be provided for global variable definitions if needed? USER
+Loose support of Box2d will become solid support NOPE
+Box2d will become the only directly supported physics engine DONE
+IRGlobal will get DeltaTime DONE
+Boolean assignment is faster than querying a boolean then assigning it, lets assume.
+SLOW
+if(bool)
+{
+	bool = false;
+}
+FAST
+bool = false;
+
+Utilities class for scaling and other useful code, a single utility class with static functions and variables? IRUtility NOPE
+IRButton to be moved to UI DONE
+IRPhysics is depreciated, mark it as such! (DON'T DELETE) DONE
+Do something with IRIntro DONE
+IRCollision template! DONE
+IsSomething should be a getter like isSomething.
+Move IRRecord to UI. DONE
+Move IRCollision2D and support class to Physics. DONE
+If starling provides FPS and deltaTime, ditch from IRProgram. NOPE
+Create() should check for flash objects and add them to the correct stage, no conversion needed (Delete IRFlashObject). DONE
+
+
+Assigning default values like null is slow, don't do it apparently?

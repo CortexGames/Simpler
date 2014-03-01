@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Simpler</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.flexlibnature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] Box2D</name>
+			<type>2</type>
+			<location>C:/Libraries/Box2D</location>
+		</link>
+		<link>
+			<name>[source path] StarlingParticle-src</name>
+			<type>2</type>
+			<location>C:/Libraries/StarlingParticle/src</location>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<location>C:/Libraries/Starling/starling/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
