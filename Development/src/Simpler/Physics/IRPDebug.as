@@ -1,11 +1,11 @@
-package Simpler.Physics
+package simpler.physics
 {
 	// Box2d Classes \/ //
 	import Box2D.Dynamics.b2DebugDraw; // Import the b2DebugDraw Class
 	// Flash Classes \/ //
 	import flash.display.Sprite; // Import the Sprite Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 
 	public class IRPDebug extends IRObject
 	{

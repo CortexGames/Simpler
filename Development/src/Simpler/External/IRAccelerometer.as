@@ -1,10 +1,10 @@
-package Simpler.External
+package simpler.external
 {
 	// Flash Classes \/ //
 	import flash.sensors.Accelerometer; // Import the Accelerometer Class
 	import flash.events.AccelerometerEvent; // Import the AccelerometerEvent Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	/**
 	 * IRAccelerometer allows for easy access to the Accelerometer of a device.

@@ -1,7 +1,7 @@
-package Simpler.External
+package simpler.external
 {
-	import Simpler.Display.IRObject;
-	import Simpler.UI.IRButton;
+	import simpler.display.IRObject;
+	import simpler.ui.IRButton;
 	
 	import flash.net.URLRequest;
 	import flash.net.navigateToURL;
@@ -41,11 +41,11 @@ package Simpler.External
 			addChild(m_gBackground);
 		} // Show rating dialog here!
 		
-		private function Rate():void
+		public function Rate():void
 		{
 			var appUrl:String = APPLE_STORE + m_sAppleID;
 			
-			if(isAndroid())
+			if(isAndroid)
 			{
 				appUrl = ANDROID_STORE + m_sAndroidID + PLAY_REVIEW;
 			}

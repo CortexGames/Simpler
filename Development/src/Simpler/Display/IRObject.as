@@ -1,10 +1,10 @@
-package Simpler.Display
+package simpler.display
 {
 	// Starling Classes \/ //
 	import starling.display.Sprite; // Import the Sprite Class
 	// Simpler Classes \/ //
-	import Simpler.Game.IRGlobal; // Import the IRGlobal Class
-	import Simpler.Game.IRAssets; // Import the IRAssets Class
+	import simpler.game.IRGlobal; // Import the IRGlobal Class
+	import simpler.game.IRAssets; // Import the IRAssets Class
 	
 	/**IRObject is the second most basic class of Simpler.<br />
 	 * All Simpler / User Classes that are to be added to Starling should extend this 

@@ -10,15 +10,15 @@
 * Entirely reformatted for Collision Detection
 * Bitches!
 */
-package Simpler.Game
+package simpler.game
 {
 	// Flash Classes \/ //
 	import flash.utils.Dictionary; // Import the Dictionary Class
 	// Starling Classes \/ //
 	import starling.display.DisplayObject; // Import the DisplayObject Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
-	import Simpler.Game.IRCollisionBase; // Import the IRCollisionBase Class
+	import simpler.display.IRObject; // Import the IRObject Class
+	import simpler.game.IRCollisionBase; // Import the IRCollisionBase Class
 	
 	public class IRCollision extends IRCollisionBase
 	{

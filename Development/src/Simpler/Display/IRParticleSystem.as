@@ -1,4 +1,4 @@
-package Simpler.Display
+package simpler.display
 {
 	// Flash Classes \/ //
 	import flash.geom.Point; // Import the Point Class
@@ -8,8 +8,8 @@ package Simpler.Display
 	import starling.extensions.PDParticleSystem; // Import the PDParticleSystem Class
 	import starling.textures.Texture; // Import the Texture Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject;
-	import Simpler.Game.IRAssets;
+	import simpler.display.IRObject;
+	import simpler.game.IRAssets;
 
  // Import the IRObject Class
 	

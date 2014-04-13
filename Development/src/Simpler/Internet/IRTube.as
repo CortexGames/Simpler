@@ -1,8 +1,8 @@
-package Simpler.Internet
+package simpler.internet
 {
 	// Flash Classes \/ //
-	import Simpler.Display.IRObject;
-	import Simpler.Game.IRGlobal;
+	import simpler.display.IRObject;
+	import simpler.game.IRGlobal;
 	
 	import flash.display.DisplayObject;
 	import flash.display.Loader;

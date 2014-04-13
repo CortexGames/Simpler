@@ -1,10 +1,10 @@
-package Simpler.Physics
+package simpler.physics
 {
 	// Box2D Classes \/ //
 	import Box2D.Dynamics.b2ContactListener; // Import the b2ContactListener Class
 	import Box2D.Dynamics.Contacts.b2Contact; // Import the b2Contact Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	public class IRPCollisionListener extends b2ContactListener
 	{

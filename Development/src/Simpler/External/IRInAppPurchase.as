@@ -1,4 +1,4 @@
-package Simpler.External
+package simpler.external
 {
 	public class IRInAppPurchase
 	{

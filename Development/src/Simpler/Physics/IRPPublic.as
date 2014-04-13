@@ -1,9 +1,9 @@
-package Simpler.Physics
+package simpler.physics
 {
 	// Starling Classes \/ //
 	import starling.display.Sprite; // Import the Sprite Class
 	// Simpler Classes \/ //
-	import Simpler.Physics.IRPBasic; // Import the IRPBasic Class
+	import simpler.physics.IRPBasic; // Import the IRPBasic Class
 	
 	public class IRPPublic extends IRPBasic
 	{

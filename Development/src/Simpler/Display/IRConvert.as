@@ -1,9 +1,9 @@
-package Simpler.Display
+package simpler.display
 {
 	// Starling Classes \/ //
 	import starling.display.DisplayObject; // Import the DisplayObject Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	/**IRConvert wraps a single graphic as an IRObject.<br />
 	 * IRConvert is a memory conservative version of IRGroup and is recommended.<br /><br />

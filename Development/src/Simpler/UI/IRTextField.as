@@ -1,6 +1,6 @@
-package Simpler.UI
+package simpler.ui
 {
-	import Simpler.Display.IRObject;
+	import simpler.display.IRObject;
 	import starling.text.TextField;
 	
 	public class IRTextField extends IRObject

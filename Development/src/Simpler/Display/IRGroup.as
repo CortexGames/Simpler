@@ -1,9 +1,9 @@
-package Simpler.Display
+package simpler.display
 {
 	// Starling Classes \/ //
 	import starling.display.Sprite; // Import the Sprite Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	/**IRGroup stores multiple instances of Display Objects<br />
 	 * Use this class to group graphics together. Updates and other events
 	 * will not be called on items in IRGroups.<br /><br />

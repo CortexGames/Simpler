@@ -1,9 +1,9 @@
-package Simpler.Game
+package simpler.game
 {
 	// Starling Classes \/ //
 	import starling.events.Event; // Import the Event Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRBasic Class
+	import simpler.display.IRObject; // Import the IRBasic Class
 	
 	public dynamic class IRLoadScreen
 	{

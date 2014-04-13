@@ -1,12 +1,12 @@
-package Simpler.Game
+package simpler.game
 {
 	// Flash Classes \/ //
 	import flash.display.Stage; // Import the Stage Class
 	// Starling Classes \/ //
 	import starling.events.Touch; // Import the Touch Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRBasic Class
-	import Simpler.Game.IRCollisionBase; // Import the IRCollisionBase Class
+	import simpler.display.IRObject; // Import the IRBasic Class
+	import simpler.game.IRCollisionBase; // Import the IRCollisionBase Class
 	
 	public class IRGlobal
 	{

@@ -1,9 +1,9 @@
-package Simpler.Game
+package simpler.game
 {
 	// Starling Classes \/ //
 	import starling.display.DisplayObject; // Import the DisplayObject Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	public class IRCollisionBase extends IRObject
 	{

@@ -1,7 +1,7 @@
-package Simpler.UI
+package simpler.ui
 {
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	/**IRRecord allows input to be recorded.<br />
 	 * Input can be recorded and played using this class, Input can also be saved as 
 	 * text and loaded again. Using this class DOES take over input so it's not 

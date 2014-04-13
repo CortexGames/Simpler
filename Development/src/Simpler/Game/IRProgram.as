@@ -1,4 +1,4 @@
-package Simpler.Game
+package simpler.game
 {
 	// Flash Classes \/ //
 	import flash.events.TimerEvent; // Import the TimerEvent Class
@@ -17,9 +17,9 @@ package Simpler.Game
 	import starling.display.Quad; // Import the Quad Class
 	import starling.events.ResizeEvent; // Import the ResizeEvent Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
-	import Simpler.Game.IRScene; // Import the IRScene Class
-	import Simpler.Game.IRCollisionBase; // Import the IRCollisionBase Class
+	import simpler.display.IRObject; // Import the IRObject Class
+	import simpler.game.IRScene; // Import the IRScene Class
+	import simpler.game.IRCollisionBase; // Import the IRCollisionBase Class
 	
 	public class IRProgram extends IRScene
 	{

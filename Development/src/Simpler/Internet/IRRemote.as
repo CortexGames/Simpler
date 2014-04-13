@@ -1,9 +1,9 @@
-package Simpler.Internet
+package simpler.internet
 {
 	// Starling Classes \/ //
 	import starling.text.TextField; // Import the TextField Class
 	// Simpler Classes \/ //
-	import Simpler.Internet.IRPeerToPeer; // Import the IRPeerToPeer Class // Multi
+	import simpler.internet.IRPeerToPeer; // Import the IRPeerToPeer Class // Multi
 	
 	public class IRRemote extends IRPeerToPeer
 	{		

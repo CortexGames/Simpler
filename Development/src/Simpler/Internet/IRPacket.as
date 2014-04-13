@@ -1,4 +1,4 @@
-package Simpler.Internet
+package simpler.internet
 {
 	public class IRPacket
 	{

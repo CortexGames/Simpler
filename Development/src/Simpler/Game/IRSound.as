@@ -1,4 +1,4 @@
-package Simpler.Game
+package simpler.game
 {
 	// Flash Classes \/ //
 	import flash.media.Sound; // Import the Sound Class
@@ -7,7 +7,7 @@ package Simpler.Game
 	import flash.media.SoundMixer; // Import the SoundMixer Class
 	import flash.events.Event; // Import the Event Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	public class IRSound extends IRObject
 	{

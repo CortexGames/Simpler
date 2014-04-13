@@ -1,4 +1,4 @@
-package Simpler.Game
+package simpler.game
 {
 	import flash.display.Stage;
 

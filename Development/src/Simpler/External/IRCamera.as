@@ -1,11 +1,11 @@
-package Simpler.External
+package simpler.external
 {
 	// Flash Classes \/ //
 	import flash.media.Camera; // Import the Camera Class
 	import flash.media.Video; // Import the Video Class
 	import flash.system.Capabilities; // Import the Capabilities Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	public class IRCamera extends IRObject
 	{

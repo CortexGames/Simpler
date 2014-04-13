@@ -1,7 +1,7 @@
-package Simpler.Utils
+package simpler.utils
 {
 	// Simpler Classes \/ //
-	import Simpler.Game.IRGlobal; // Import the IRGlobal Class
+	import simpler.game.IRGlobal; // Import the IRGlobal Class
 	
 	public class IRUtil
 	{

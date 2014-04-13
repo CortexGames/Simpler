@@ -1,10 +1,10 @@
-package Simpler.Display
+package simpler.display
 {
 	// Starling Classes \/ //
 	import starling.display.MovieClip; // Import the MovieClip Class
 	import starling.core.Starling; // Import the Starling Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	/**
 	 * IRAnimation stores an animation.<br />

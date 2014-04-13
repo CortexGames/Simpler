@@ -1,4 +1,4 @@
-package Simpler.External
+package simpler.external
 {
 	// Flash Classes \/ //
 	import flash.display.BitmapData; // Import the BitmapData Class
@@ -8,7 +8,7 @@ package Simpler.External
 	import starling.display.Image; // Import the Image Class
 	import starling.textures.Texture; // Import the Texture Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	/**IRScreenshot will take a Screenshot unpon Creation.<br />
 	 * Use this class to take a Screenshot of the stage.<br /><br />

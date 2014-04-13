@@ -1,12 +1,12 @@
-﻿package Simpler.UI
+﻿package simpler.ui
 {
 	// Flash Classes \/ //
 	import flash.geom.Point; // Import the Point Class
 	// Starling Classes \/ //
 	import starling.display.Sprite; // Import the Sprite Class
 	// Custom Classes \/ //
-	import Simpler.Game.IRGlobal; // Import the IRGlobal Class
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.game.IRGlobal; // Import the IRGlobal Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	/**IRButton allows graphics to be clickable.<br />
 	 * IRButton has functions for tracking different events.<br /><br />

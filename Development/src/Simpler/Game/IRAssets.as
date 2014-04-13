@@ -1,4 +1,4 @@
-package Simpler.Game
+package simpler.game
 {
 	// Flash Classes \/ //
 	import flash.display.Bitmap; // Import the Bitmap Class
@@ -19,10 +19,10 @@ package Simpler.Game
 	import starling.text.TextField; // Import the TextField Class
 	import starling.text.BitmapFont; // Import the BitmapFont Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRConvert; // Import the IRConvert Class
-	import Simpler.Display.IRObject; // Import the IRObject Class
-	import Simpler.Display.IRAnimation; // Import the IRAnimation Class
-	import Simpler.Game.IRSound; // Import the IRSound Class
+	import simpler.display.IRConvert; // Import the IRConvert Class
+	import simpler.display.IRObject; // Import the IRObject Class
+	import simpler.display.IRAnimation; // Import the IRAnimation Class
+	import simpler.game.IRSound; // Import the IRSound Class
 	import flash.geom.Point; // Import the Point Class
 	
 	public class IRAssets

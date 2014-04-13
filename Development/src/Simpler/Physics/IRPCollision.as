@@ -1,12 +1,12 @@
-package Simpler.Physics
+package simpler.physics
 {
 	// Box2D Classes \/ //
 	import Box2D.Dynamics.Contacts.b2Contact; // Import the b2Contact Class
 	import Box2D.Dynamics.b2World; // Import the b2World Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
-	import Simpler.Physics.IRPCollisionListener; // Import the IRCollisionListener2D
-	import Simpler.Game.IRCollisionBase; // Import the IRCollisionBase Class
+	import simpler.display.IRObject; // Import the IRObject Class
+	import simpler.physics.IRPCollisionListener; // Import the IRCollisionListener2D
+	import simpler.game.IRCollisionBase; // Import the IRCollisionBase Class
 	
 	public class IRPCollision extends IRCollisionBase
 	{

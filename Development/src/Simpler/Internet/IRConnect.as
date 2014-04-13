@@ -1,4 +1,4 @@
-package Simpler.Internet
+package simpler.internet
 {
 	// Flash Classes \/ //
 	import flash.events.Event; // Import the Event Class

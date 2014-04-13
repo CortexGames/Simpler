@@ -1,4 +1,4 @@
-﻿package Simpler.Internet{ // Loads an image via a URL
+﻿package simpler.internet{ // Loads an image via a URL
 	// Flash Classes \/ //
 	import flash.display.Loader; // Import the Loader Class
 	import flash.events.Event; // Import the Event Class
@@ -9,7 +9,7 @@
 	import starling.textures.Texture; // Import the Texture Class
 	import starling.display.Image; // Import the Image Class
 	// Custom Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	public class IRImageLoader extends IRObject
 	{
 		private var m_uURLLoa:Loader = new Loader(); // Create the Loader

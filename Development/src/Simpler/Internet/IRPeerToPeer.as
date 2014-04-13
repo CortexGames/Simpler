@@ -1,4 +1,4 @@
-package Simpler.Internet
+package simpler.internet
 {
 	// Flash Classes \/ //
 	import flash.events.Event; // Import the Event Class
@@ -9,9 +9,9 @@ package Simpler.Internet
 	import flash.net.SharedObject; // Import the SharedObject Class
 	import flash.events.NetStatusEvent; // Import the NetStatusEvent Class
 	// Simpler Classes \/ //
-	import Simpler.Internet.IRConnect; // Import the IRConnect Class
-	import Simpler.Internet.IRPacket; // Import the IRPacket Class
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.internet.IRConnect; // Import the IRConnect Class
+	import simpler.internet.IRPacket; // Import the IRPacket Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	public class IRPeerToPeer extends IRObject
 	{

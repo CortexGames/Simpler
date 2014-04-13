@@ -1,8 +1,8 @@
-package Simpler.UI
+package simpler.ui
 {
 	// Simpler Classes \/ //
-	import Simpler.UI.IRButton; // Import the IRButton Class
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.ui.IRButton; // Import the IRButton Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	// Starling Classes \/ //
 	import starling.events.Touch; // Import the Touch Class
 	import starling.events.TouchPhase; // Import the TouchPhase Class

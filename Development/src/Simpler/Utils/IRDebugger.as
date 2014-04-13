@@ -1,7 +1,7 @@
-package Simpler.Utils
+package simpler.utils
 {
-	import Simpler.Game.IRGlobal;
-	import Simpler.Physics.IRPDebug;
+	import simpler.game.IRGlobal;
+	import simpler.physics.IRPDebug;
 	
 	/**
 	 * IRDebugger is used to perform debug operations on Simpler.
@@ -104,8 +104,8 @@ package Simpler.Utils
 		}
 	}
 }
-import Simpler.Display.IRObject;
-import Simpler.Utils.IRDebugger;
+import simpler.display.IRObject;
+import simpler.utils.IRDebugger;
 
 internal class IRDebuggerObject extends IRObject
 {

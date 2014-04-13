@@ -1,8 +1,8 @@
-package Simpler.Utils
+package simpler.utils
 {
 	import flash.media.SoundChannel;
 	import flash.media.SoundTransform;
-	import Simpler.Game.IRAssets;
+	import simpler.game.IRAssets;
 
 	public class IRSoundManager
 	{

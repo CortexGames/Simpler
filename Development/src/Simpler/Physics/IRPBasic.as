@@ -1,4 +1,4 @@
-package Simpler.Physics
+package simpler.physics
 {
 	import Box2D.Collision.Shapes.b2CircleShape;
 	import Box2D.Collision.Shapes.b2PolygonShape;
@@ -12,7 +12,7 @@ package Simpler.Physics
 	import Box2D.Dynamics.b2FixtureDef;
 	import Box2D.Dynamics.b2World;
 	
-	import Simpler.Display.IRObject;
+	import simpler.display.IRObject;
 	
 	import starling.display.DisplayObject;
 	import starling.display.Sprite;

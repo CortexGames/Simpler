@@ -1,10 +1,10 @@
-package Simpler.Display
+package simpler.display
 {
 	// Starling Classes \/ //
 	import starling.textures.RenderTexture; // Import the RenderTexture Class
 	import starling.display.Image; // Import the Image Class
 	// Simpler Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
+	import simpler.display.IRObject; // Import the IRObject Class
 	
 	public class IRRenderTexture extends IRObject
 	{

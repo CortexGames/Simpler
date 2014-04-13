@@ -1,10 +1,10 @@
-package Simpler.Game
+package simpler.game
 {
 	// Flash Classes \/ //
 	import flash.utils.getTimer; // Import the getTimer Class
 	// Custom Classes \/ //
-	import Simpler.Display.IRObject; // Import the IRObject Class
-	import Simpler.Game.IRGlobal; // Import the IRGlobal Class
+	import simpler.display.IRObject; // Import the IRObject Class
+	import simpler.game.IRGlobal; // Import the IRGlobal Class
 	
 	public class IRScene extends IRObject
 	{
