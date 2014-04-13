@@ -9,4 +9,5 @@ An AS3 Game Engine based on The Starling Framework and Box2DFlash
 
 <b>Documentation Coming Soon</b>
 
-<b>Actual Files Coming Soon</b>
+
+The Simpler Engine is covered by the Creative Commons Attribution - Non-Commercial 2.0 License, see <a href="http://creativecommons.org/licenses/by-nc/2.0/uk/legalcode">http://creativecommons.org/licenses/by-nc/2.0/uk/legalcode</a> for more information.
